@@ -1,0 +1,25 @@
+{
+ "projeto": "urban-obras-capa",
+ "gerado_em": "2026-10-08T10:53:59",
+ "base_url": "https://vizudados.github.io/urban-obras-capa/",
+ "arquivos": [
+  {
+   "file": "assets/capa-filme-2560x854-60fps-155bc9223d85.mp4",
+   "bytes": 9731073,
+   "sha256": "155bc9223d858a13089f970386cd13c7d7569388da19ff7fbee28c3594d227c5",
+   "content_type": "video/mp4"
+  },
+  {
+   "file": "assets/capa-filme-poster-e528667a5a7d.webp",
+   "bytes": 384910,
+   "sha256": "e528667a5a7deb0fd70e456f83ae309490090e5f0bb01ad35ca9d72745670342",
+   "content_type": "image/webp"
+  },
+  {
+   "file": "assets/panoramica-2-traco-a8f6ce861fbc.svg",
+   "bytes": 329801,
+   "sha256": "a8f6ce861fbcc2057928d1a1c63308431a6ca8c6ba67e07b2973f85d36fb2f53",
+   "content_type": "image/svg+xml"
+  }
+ ]
+}
